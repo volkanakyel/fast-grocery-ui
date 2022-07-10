@@ -1,0 +1,47 @@
+[
+    {
+            "name": "baverages",
+            "id": 1,
+            "image": "~/assets/img/category/baverages.png"
+    },
+    {
+            "name": "breakfast",
+            "id": 2,
+            "image": "~/assets/img/category/breakfast.png"
+    },
+    {
+            "name": "cooking",
+            "id": 3,
+            "image": "~/assets/img/category/cooking.png"
+    },
+    {
+            "name": "cleaning",
+            "id": 3,
+            "image": "~/assets/img/category/cleaning.png"
+    },
+    {
+            "name": "fish",
+            "id": 3,
+            "image": "~/assets/img/category/fish.png"
+    },
+    {
+            "name": "healthcare",
+            "id": 4,
+            "image": "~/assets/img/category/healthcare.png"
+    },
+    {
+            "name": "personalcare",
+            "id": 4,
+            "image": "~/assets/img/category/personalcare.png"
+    },
+    {
+            "name": "pest",
+            "id": 4,
+            "image": "~/assets/img/category/pest.png"
+    },
+    {
+            "name": "vegetables",
+            "id": 5,
+            "image": "~/assets/img/category/vegetables.png"
+    }
+]
